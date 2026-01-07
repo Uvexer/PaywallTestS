@@ -1,5 +1,10 @@
 # PaywallTestS - Описание реализации
 
+<img width="200" height="1862" alt="CleanShot 2026-01-07 at 12 13 44@2x"  src="https://github.com/user-attachments/assets/8a4e8207-63f0-4299-9970-7f9530f47a37" />
+<img width="200" height="1862" alt="CleanShot 2026-01-07 at 12 13 47@2x"  src="https://github.com/user-attachments/assets/10b26028-2d48-444a-a923-55743e3593c0" />
+<img width="200" height="1862" alt="CleanShot 2026-01-07 at 12 10 18@2x"  src="https://github.com/user-attachments/assets/6f51434f-5dd3-476e-b445-a2c0cc498626" />
+<img width="200" height="1862" alt="CleanShot 2026-01-07 at 12 10 25@2x" src="https://github.com/user-attachments/assets/ce2bb4a0-f275-44c1-8665-ddde048e777e" />
+
 ## Реализованные функции
 
 ### 1. Онбординг (OnboardingView.swift)
